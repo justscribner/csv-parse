@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "csv": "^3.1.0",
-    "csv-parse": "^2.4.1",
+    "csv-parse": "^4.4.6",
     "fs": "0.0.1-security",
     "stream-transform": "^1.0.2"
   }
